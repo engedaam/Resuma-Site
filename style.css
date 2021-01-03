@@ -195,17 +195,17 @@ body
 .projects
 {
     padding-top: 50px;
-    padding-bottom: 50px;
 }
 .projects h1
 {
     margin-bottom: 15px;
-
 }
 .service-box
 {
     background: #f9f9f9;
     padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border-top-right-radius: 50px;
     border-bottom-left-radius: 50px;
 }
