@@ -69,12 +69,14 @@ body
 {
     padding-top: 100px;
     margin-bottom: -130px;
-
+}
+.about p span
+{
+    margin-left: 100px;
 }
 .profile-img
 {
     height: 400px;
-
 }
 .nav-bar
 {
@@ -128,16 +130,14 @@ body
 
 .resume
 {
-    margin-top: -50px;
+    margin-top: -20px;
     padding-top: 50px;
     padding-bottom: 30px;
     background: #f9f9f9;
 }
-
 .resume h3
 {
     margin-bottom: 50px;
-
 }
 .timeline
 {
