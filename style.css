@@ -72,11 +72,12 @@ body
 }
 .about p span
 {
-    margin-left: 100px;
+    margin-left: 50px;
 }
 .profile-img
 {
-    height: 400px;
+    padding-top: 60px;
+    height: 550px;
 }
 .nav-bar
 {
